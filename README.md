@@ -1,31 +1,75 @@
-# microG Services
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# GmsCore
 
-[![Build status](https://github.com/microg/GmsCore/actions/workflows/build.yml/badge.svg)](https://github.com/microg/GmsCore/actions/workflows/build.yml)
-<a href=TRANSLATION.md>
-<img src="https://hosted.weblate.org/widget/microg/svg-badge.svg" alt="Translation status" />
-</a>
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/GmsCore)
 
-microG Services is a FLOSS (Free/Libre Open Source Software) framework to allow applications designed for Google Play Services to run on systems, where Play Services is not available.
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-### Please refer to the [wiki](https://github.com/microg/GmsCore/wiki) for downloads and instructions
+## Architecture
 
-## Translations
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-If you'd like to help translate microG, take a look at [TRANSLATION](TRANSLATION.md).
+## Install
 
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-License
--------
-    Copyright 2013-2025 microG Project Team
+```bash
+git clone https://github.com/Interested-Deving-1896/GmsCore.git
+cd GmsCore
+```
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+## Usage
 
-        http://www.apache.org/licenses/LICENSE-2.0
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/GmsCore`](https://github.com/Interested-Deving-1896/GmsCore) and mirrored through:
+
+```
+Interested-Deving-1896/GmsCore  ──►  OpenOS-Project-OSP/GmsCore  ──►  OpenOS-Project-Ecosystem-OOC/GmsCore
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[Apache-2.0](https://github.com/Interested-Deving-1896/GmsCore/blob/master/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
